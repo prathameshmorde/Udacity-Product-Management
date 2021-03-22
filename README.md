@@ -8,7 +8,7 @@ To create a business case and pitch the idea to the stakeholders.
 
 *Details* 
 
-In this project, I covered following steps 
+In this project, I covered the following steps 
 
 - Identify the problem to solve by creating a compelling story using evidence and metrics.
 - Identify the opportunity by calculating the TAM for the product.
